@@ -16,35 +16,35 @@ const MyWorks = () => {
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption">
                                 <h2 className='font-extrabold'>Pulse Tech</h2>
-                                <p className="font-weight-normal">providing a seamless shopping experience.</p>
+                                <p className="font-weight-normal">seamless shopping experience.</p>
                             </span>                         
                         </span>                     
                     </a>
                 </div>
                 <div className="card-card">
-                    <a href="#" className="portfolio-card">
+                    <a href="https://restoo-azure.vercel.app/" className="portfolio-card">
                         <img src="assets/imgs/restaurant.png" className="portfolio-card-img" alt=""/>    
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption ">
                                 <h2 className='font-extrabold'>Restoo</h2>
-                                <p className="font-weight-normal">Website for a restaurant that allows visitors to browse the menu </p>
+                                <p className="font-weight-normal">Website for a restaurant <br/> that allows visitors to browse the menu </p>
                             </span>                         
                         </span>                     
                     </a>
                 </div>
                 <div className="card-card">
-                    <a href="#" className="portfolio-card">
+                    <a href="https://github.com/Fouad-shaban/NotesApp" className="portfolio-card">
                         <img src="assets/imgs/notes.jpg" className="portfolio-card-img" alt=""/>    
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption ">
                                 <h2 className='font-extrabold'>notes app</h2>
-                                <p className="font-weight-normal">Category: Web Templates</p>
+                                <p className="font-weight-normal"></p>
                             </span>                         
                         </span>                     
                     </a>
                 </div>
                 <div className="card-card">
-                    <a href="#" className="portfolio-card">
+                    <a href="https://to-do-list-fawn-eta.vercel.app/" className="portfolio-card">
                         <img src="assets/imgs/TO-DO-LIST.png" className="portfolio-card-img" alt=""/>    
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption ">
@@ -60,29 +60,29 @@ const MyWorks = () => {
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption ">
                                 <h2 className='font-extrabold'>Prayers Times</h2>
-                                <p className="font-weight-normal">Category: Web Templates</p>
+                                <p className="font-weight-normal">Stay on time for every prayer</p>
                             </span>                         
                         </span>                     
                     </a>
                 </div>
                 <div className="card-card">
-                    <a href="#" className="portfolio-card">
-                        <img src="assets/imgs/folio-1.jpg" className="portfolio-card-img" alt=""/>    
+                    <a href="https://trivia-quiz-lime.vercel.app/" className="portfolio-card">
+                        <img src="assets/imgs/trivia.jpg" className="portfolio-card-img" alt=""/>    
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption ">
-                                <h2 className='font-extrabold'>Web Designing</h2>
-                                <p className="font-weight-normal">Category: Web Templates</p>
+                                <h2 className='font-extrabold'>Trivia Quiz</h2>
+                                <p className="font-weight-normal">Interactive trivia game, Challenge your brain.</p>
                             </span>                         
                         </span>                     
                     </a>
                 </div>
                 <div className="card-card">
-                    <a href="#" className="portfolio-card">
-                        <img src="assets/imgs/folio-1.jpg" className="portfolio-card-img" alt=""/>    
+                    <a href="https://github.com/Fouad-shaban/Cafe-House" className="portfolio-card">
+                        <img src="assets/imgs/cafehouse.jpeg" className="portfolio-card-img" alt=""/>    
                         <span className="portfolio-card-overlay">
                             <span className="portfolio-card-caption ">
-                                <h2 className='font-extrabold'>Web Designing</h2>
-                                <p className="font-weight-normal">Category: Web Templates</p>
+                                <h2 className='font-extrabold'>Cafe House</h2>
+                                <p className="font-weight-normal">Responsive café website</p>
                             </span>                         
                         </span>                     
                     </a>
